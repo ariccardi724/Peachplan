@@ -1,0 +1,9 @@
+{
+  "name": "Glute & Lean Mass Plan",
+  "short_name": "Glute Plan",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#382d48",
+  "theme_color": "#382d48",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
+}
