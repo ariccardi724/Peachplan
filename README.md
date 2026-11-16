@@ -27,3 +27,9 @@ npm run dev
 - Set your program start date in the app's Settings so it opens on today's workout.
 - PDF export is built in the browser. If a download is blocked, use "Open in new tab".
 - Data lives per device and per browser. There is no account or sync.
+
+## App icon
+
+Icons live in `public/` (`icon-192.png`, `icon-512.png`, `icon-maskable-512.png`,
+`apple-touch-icon.png`, `favicon.png`). To change the icon, replace those files
+(keep the same names and sizes) and push.
